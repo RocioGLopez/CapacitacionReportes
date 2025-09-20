@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36324.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportesCapacitacion", "ReportesCapacitacion\ReportesCapacitacion.csproj", "{7E7E2A69-67E5-4ADB-8B3E-AE58F5FFDBC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7E2A69-67E5-4ADB-8B3E-AE58F5FFDBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7E2A69-67E5-4ADB-8B3E-AE58F5FFDBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7E2A69-67E5-4ADB-8B3E-AE58F5FFDBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7E2A69-67E5-4ADB-8B3E-AE58F5FFDBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F6EB62-AB09-485E-AF3F-F0F033ECDD28}
+	EndGlobalSection
+EndGlobal
